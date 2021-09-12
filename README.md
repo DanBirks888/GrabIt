@@ -18,12 +18,16 @@ ___
 ```
 This method is dependant on the user 
 
-| Removes        | Description | Result |
+| Removes        | Description | Works |
 | ------------- |:------------:| :----: |
-| Https://www. |Full Secure URL |  Yes  |
-| Http://www.  |Full Unsecure URL| Yes  |
-| www.         |Normal URL     |  Yes   |
-| w w w.       |Spaces In URL  |  Yes   |
-| w.          |Missing part of URL| Yes |
-| link.com     |Missing First dot| No  |
+| Https://www.github.com |Full Secure URL |  Yes  |
+| Http://www.github.com  |Full Unsecure URL| Yes  |
+| www.github.com         |Normal URL     |  Yes   |
+| w w w.github.com       |Spaces In URL  |  Yes   |
+| w.github.com          |Missing part of URL| Yes |
+|https://wwwgithub.com | Missing dot URL | Yes |
+|http://wwwgithub.com  | Missing dot URL | Yes |
+|https//github.com     | Missing dot URL | Yes |
+|http//github.com      | Missing Dot URL | Yes |
+|wwwgithub.com         | Missing Dot URL | Yes |
 ___
