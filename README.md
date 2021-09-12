@@ -1,13 +1,16 @@
 
 # Grab It!
-### An easy to use string manipulation library
+
+:ok_hand: :ok_hand: :ok_hand: :ok_hand: :ok_hand:
+### Easy use String manipulation library
 
 ## General
 
 ```c#
     public static string LowerCaseAndSpaceReplace(string input)
 ```
-Method makes string lower case and removes all spaces
+Don't let messy strings get into your params! <br>
+It does what it says on the tin! :baby_bottle:
 ___
 ## URLs
 
@@ -16,7 +19,8 @@ ___
 ```c#
     public static string LinkShaver(string input)
 ```
-This method is dependant on the user 
+Some individuals really struggling to copy and paste links correctly!<br>
+Never fear! LinkShaver() is here! :bowtie:
 
 | Removes        | Description | Works |
 | ------------- |:------------:| :----: |
@@ -30,4 +34,17 @@ This method is dependant on the user
 |https//github.com     | Missing dot URL | Yes |
 |http//github.com      | Missing Dot URL | Yes |
 |wwwgithub.com         | Missing Dot URL | Yes |
-___
+
+## Etiquette
+
+#### Removes Profanity
+
+```c#
+    public static string ProfanityFilter(string rant, Dictionary<string, string> dict)
+```
+No one likes a dirty mouth! :unamused: But no need to silence them! <br>
+Pass a Dictionary with the Key as the naughty word and the value as a cute alternative! :blush:
+
+|Key |Value |
+|---|--- |
+| :angry:naughtyWord :angry:| :angel:NiceWord :angel:|
