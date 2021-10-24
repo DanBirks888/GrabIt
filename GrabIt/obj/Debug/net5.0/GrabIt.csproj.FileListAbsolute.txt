@@ -1,0 +1,12 @@
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\bin\Debug\net5.0\GrabIt.deps.json
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\bin\Debug\net5.0\GrabIt.dll
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\bin\Debug\net5.0\ref\GrabIt.dll
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\bin\Debug\net5.0\GrabIt.pdb
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.csproj.AssemblyReference.cache
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.AssemblyInfoInputs.cache
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.AssemblyInfo.cs
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.csproj.CoreCompileInputs.cache
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.dll
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\ref\GrabIt.dll
+C:\Users\drbor\RiderProjects\GrabIt\GrabIt\obj\Debug\net5.0\GrabIt.pdb
